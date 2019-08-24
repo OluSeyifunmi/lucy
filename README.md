@@ -1,0 +1,2 @@
+# lucy
+a new repository
